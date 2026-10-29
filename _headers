@@ -4,3 +4,5 @@
   Cache-Control: no-cache
 /catalog.json
   Cache-Control: no-cache
+/siparis-durum.json
+  Cache-Control: no-cache
